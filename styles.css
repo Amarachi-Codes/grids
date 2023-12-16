@@ -13,3 +13,8 @@
     min-height: 180px;
     
 }
+.container .card:nth-child(8){
+    grid-column: 3 /span 2;
+    background-color: teal;
+    grid-row: 1;
+}
